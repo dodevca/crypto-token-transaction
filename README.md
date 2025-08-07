@@ -25,8 +25,7 @@ Crypto Token Transaction is a simple Web3-based decentralized application (dApp)
 Access the live demo at: [https://token-transaction.dodevca.com](https://token-transaction.dodevca.com)
 
 ## Installation and Usage
-> No complex setup is required. Simply follow these steps:
-
+No complex setup is required. Simply follow these steps:
 1. Clone this repository.
 2. Open project directory:
 ```bash
