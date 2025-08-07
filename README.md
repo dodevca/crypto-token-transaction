@@ -1,4 +1,4 @@
-# 🪙 Crypto Token Transaction
+# Crypto Token Transaction
 
 ## About This Project
 
